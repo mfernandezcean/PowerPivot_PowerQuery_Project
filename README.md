@@ -22,25 +22,28 @@ Sales & order data for ***Northwind Traders***, a fictitious gourmet food suppli
 ### Answers 
 #### 1.Are there any noticable sales trends over time?
 
-![q](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/40fa08fa-bddd-4ae1-9cf0-c45fde8cf9c5)
+![q](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/e7b38865-dd47-4b6b-b627-4d6b2d1fd4cb)
 
 Why the drastic fall at the end of the chart?
 
-![q111](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/a1f033bd-4888-4ba9-8de3-f0224ad20bb6)
+![q111](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/adb51554-a9e9-4a67-98b2-c1582e75e763)
 
  - Removing the incomple month of May, we can se a clear trend: Grouping by quarters, we avoid the impact of the incomplete info of May 2015, without the nesecitiy of ingoring it.
 
 
-![67i](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/05200185-bba0-4e26-9d32-66165b0334af)
+![67i](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/ca816fd7-83a7-4421-a729-60ccdaf4df35)
 ---
+
 #### 2.Which are the best and worst selling products?
 
-![ascacsas](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/e06d418f-a76e-43c6-bc4c-b9ab11f48ebd)
+![ascacsas](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/bbf98fbe-ec12-49a6-b80c-3b10afb27635)
 ---
+
 #### 3.Can you identify any key customers?
 
-![123231](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/94bda7ed-f43a-4fd8-b7d3-b71bb856d2f7)
+![123231](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/438ea0e0-d7a5-4bd5-9f80-a70d4ececfae)
 ---
+
 #### 4.Are shipping costs consistent across providers?
 - Measures looked afer:
    - Quantity of Orders Shipped
