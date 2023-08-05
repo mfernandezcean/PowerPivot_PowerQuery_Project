@@ -83,3 +83,8 @@ We clearly see the very good perfomance of **Federal Shipping** in comparison wi
 
 - #### Recomendation: If possible increase the business done with United Package and also with Federal Shipping, that currently is last in Quantiy of orders and shows promising Revenues numbers.
 	- And decrease the amount of orders done with Speedy Express
+---
+
+### Extras
+
+![ascascsa](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/df0a977a-2b84-4afb-8442-8036ea402bd9)
