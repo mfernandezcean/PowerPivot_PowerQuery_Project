@@ -94,7 +94,8 @@ We clearly see the very good perfomance of **Federal Shipping** in comparison wi
 ---
 
 - Geo:
-
+  
+The World by Quantity of Orders:
 ![xasasxxas](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/0c43d3a0-53c7-44ae-a4eb-006b0f45b737)
 
 
