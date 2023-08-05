@@ -88,7 +88,15 @@ We clearly see the very good perfomance of **Federal Shipping** in comparison wi
 ---
 
 ### Extras
+- Category of Product:
 
 ![ascascsa](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/df0a977a-2b84-4afb-8442-8036ea402bd9)
+---
+
+- Geo:
 
 ![xasasxxas](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/0c43d3a0-53c7-44ae-a4eb-006b0f45b737)
+
+
+
+![erge4r4et4ete4tt4](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/53921c0a-376e-45e4-97bf-2a021335e065)
