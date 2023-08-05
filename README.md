@@ -66,12 +66,19 @@ Why the drastic fall at the end of the chart?
 ![wfewfefwe](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/bfee001e-6260-4a82-bbd6-4265d92fc059)
 
 
+Speedy Express is ranked second in transactions, but it is the last one to bring in money. Has the **lowest Average** per order and has a big discount rate if we compare with United Package and its massive quantity sold.
+
+
+- This table shows the distribution of the Quantity of orders, Revenue and also the Revenue after we substract the discount that every shipper has: 
+
 | Shipper |% Quantity  |% Revenue|% Revenue w/Discount| Var: Rev. & Rev.w/Disc.
 |--|--|--|--|--|
 |  Federal Shipping| 30.11%|30.10%|30.29%|0.19%
 |Speedy Express|31.02%|27.61%|27.56%|-0.05%
 |United Package|38.87%|42.28%|42.15%|-0.13%|
 ||100%|100%|100%
+
+We clearly see the very good perfomance of **Federal Shipping** in comparison with the other two. 
 
 
 - #### Recomendation: If possible increase the business done with United Package and also with Federal Shipping, that currently is last in Quantiy of orders and shows promising Revenues numbers.
