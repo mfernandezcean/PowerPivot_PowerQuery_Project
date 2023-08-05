@@ -53,3 +53,12 @@ Why the drastic fall at the end of the chart?
 ![Avgincome](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/f601d990-4dbf-45eb-adb8-ec8e86edccbf)
 
 ![wfewfefwe](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/43b31d7c-1988-4dd0-9e67-d659374b7afe)
+
+
+| Shipper |% Quantity  |% Revenue|% Revenue w/Discount| Var: Rev. & Rev.w/Disc.
+|--|--|--|--|--|
+|  Federal Shipping| 30.11%|30.10%|30.29%|0.19%
+|Speedy Express|31.02%|27.61%|27.56%|-0.05%
+|United Package|38.87%|42.28%|42.15%|-0.13%|
+||100%|100%|100%
+
