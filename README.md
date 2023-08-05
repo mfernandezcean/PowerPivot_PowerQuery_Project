@@ -57,15 +57,15 @@ Why the drastic fall at the end of the chart?
    - Speedy Express seems to be not the best partner
    - Federal Shipping show numbers that are promising
 
-![qwdwqd](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/21f3a7e1-aac3-4318-adbd-874364e81238)
+![cqwqwccwqcqw](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/722c86c7-8246-4e91-b926-ee2b7fd82a1d)
 
-![revenueship](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/cf09fb68-43d0-443a-8242-b1945ad27930)
+![ascsaccas](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/f894b563-c15f-4123-82bf-509a229a1576)
 
-![Avgincome](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/c12f040e-fd72-41b4-902b-f56c01059ae7)
+![qwqwqqwq](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/f88c7053-98de-4ad4-b137-4b71dd0c443c)
 
 - Speedy Express seems to be some how deficent revenue wise:
   
-![wfewfefwe](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/bfee001e-6260-4a82-bbd6-4265d92fc059)
+![wefefwefwewf](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/9ba23550-3cde-4feb-bf0f-20db0c13a214)
 
 
 Speedy Express is ranked second in transactions, but it is the last one to bring in money. Has the **lowest Average** per order and has a big discount rate if we compare with United Package and its massive quantity sold.
