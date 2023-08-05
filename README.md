@@ -22,25 +22,23 @@ Sales & order data for ***Northwind Traders***, a fictitious gourmet food suppli
 ### Answers 
 #### 1.Are there any noticable sales trends over time?
 
-![q](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/e7b38865-dd47-4b6b-b627-4d6b2d1fd4cb)
+
+![acscascascas](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/ff15ecb6-6fa8-40da-a277-ca823d9a8d9f)
 
 Why the drastic fall at the end of the chart?
 
-![q111](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/adb51554-a9e9-4a67-98b2-c1582e75e763)
-
- - Removing the incomple month of May, we can se a clear trend: Grouping by quarters, we avoid the impact of the incomplete info of May 2015, without the nesecitiy of ingoring it.
+![acscsacascsacsa](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/caa4aaaf-cb4c-4810-95c7-acee25f99e29)
 
 
-![67i](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/ca816fd7-83a7-4421-a729-60ccdaf4df35)
 
-![ecwewcew](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/9074cbdc-f017-4ca7-9230-2d9a82befa4a)
-![ewffewefewf](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/f611b919-fc84-469f-83e1-421c0d0d093b)
-![asccasasccas](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/53bf740d-75a0-4ce6-a3f2-54bd8300c501)
+ - Removing the  month of May from the analysis, we can se a clear trend: 
+
+![acsasccsacasascas](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/9f097819-7ff8-4846-b5a3-b9f73dcc849f)
 ---
 
 #### 2.Which are the best and worst selling products?
 
-![ascacsas](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/bbf98fbe-ec12-49a6-b80c-3b10afb27635)
+![asxxasasx](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/1d4c964e-e804-4772-9a0b-656d46ac8249)
 ---
 
 #### 3.Can you identify any key customers?
