@@ -41,3 +41,15 @@ Why the drastic fall at the end of the chart?
 #### 3.Can you identify any key customers?
 
 ![123231](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/94bda7ed-f43a-4fd8-b7d3-b71bb856d2f7)
+---
+#### 4.Are shipping costs consistent across providers?
+
+No they are not
+
+![qwdwqd](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/50f2511d-a67a-412d-9139-33e55e932326)
+
+![revenueship](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/f3c21c48-9f08-4611-9de5-0c4f606cff0e)
+
+![Avgincome](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/f601d990-4dbf-45eb-adb8-ec8e86edccbf)
+
+![wfewfefwe](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/43b31d7c-1988-4dd0-9e67-d659374b7afe)
