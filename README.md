@@ -57,7 +57,7 @@ Why the drastic fall at the end of the chart?
    - Speedy Express seems to be not the best partner
    - Federal Shipping show numbers that are promising
 
-![cqwqwccwqcqw](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/722c86c7-8246-4e91-b926-ee2b7fd82a1d)
+![ascscsacscs](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/e1e9cfa1-a884-4113-bd66-9cdd90c03f17)
 
 ![ascsaccas](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/f894b563-c15f-4123-82bf-509a229a1576)
 
