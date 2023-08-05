@@ -35,3 +35,5 @@ Why the drastic fall at the end of the chart?
 ![67i](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/05200185-bba0-4e26-9d32-66165b0334af)
 ---
 #### 2.Which are the best and worst selling products?
+
+![ascacsas](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/e06d418f-a76e-43c6-bc4c-b9ab11f48ebd)
