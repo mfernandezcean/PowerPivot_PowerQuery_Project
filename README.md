@@ -1,8 +1,7 @@
 # PowerPivot_PowerQuery_Project
 In this repository you'll find what I can do with Power Query and Power Pivot with the **Northwind** Data challenge. For this Anlysis i'm inly going to use Excel. In other file, I will make a dashboard with Power BI. 
 
-
-![w12](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/a3ffb3f3-17be-4c9d-94d4-058d872af0b6)
+![w12](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/19fbff06-1460-4193-855a-d655a2984a1e)
 
 
 Sales & order data for ***Northwind Traders***, a fictitious gourmet food supplier, including information on customers, products, orders, shippers, and employees.
@@ -17,7 +16,7 @@ Sales & order data for ***Northwind Traders***, a fictitious gourmet food suppli
 
 ### Data Model:
 
-![nw data model](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/48cd929a-b8a4-4420-a668-58a5fad15861)
+![nw data model](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/77be057b-fdfd-46ba-9a7e-552fe6e25bc9)
 
 ---
 ### Answers 
