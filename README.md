@@ -55,15 +55,15 @@ Why the drastic fall at the end of the chart?
    - Speedy Express seems to be not the best partner
    - Federal Shipping show numbers that are promising
 
-![qwdwqd](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/50f2511d-a67a-412d-9139-33e55e932326)
+![qwdwqd](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/21f3a7e1-aac3-4318-adbd-874364e81238)
 
-![revenueship](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/f3c21c48-9f08-4611-9de5-0c4f606cff0e)
+![revenueship](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/cf09fb68-43d0-443a-8242-b1945ad27930)
 
-![Avgincome](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/f601d990-4dbf-45eb-adb8-ec8e86edccbf)
+![Avgincome](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/c12f040e-fd72-41b4-902b-f56c01059ae7)
 
 - Speedy Express seems to be some how deficent revenue wise:
   
-![wfewfefwe](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/43b31d7c-1988-4dd0-9e67-d659374b7afe)
+![wfewfefwe](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/bfee001e-6260-4a82-bbd6-4265d92fc059)
 
 
 | Shipper |% Quantity  |% Revenue|% Revenue w/Discount| Var: Rev. & Rev.w/Disc.
