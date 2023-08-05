@@ -44,7 +44,7 @@ Why the drastic fall at the end of the chart?
 ---
 #### 4.Are shipping costs consistent across providers?
 
-No they are not
+- **No they are not.** I've spoted some incogruences with the shippers selection
 
 ![qwdwqd](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/50f2511d-a67a-412d-9139-33e55e932326)
 
