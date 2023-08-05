@@ -73,4 +73,6 @@ Why the drastic fall at the end of the chart?
 |United Package|38.87%|42.28%|42.15%|-0.13%|
 ||100%|100%|100%
 
-- #### Recomendation: If possible increase the business done with United Package and also with Federal Shipping
+
+- #### Recomendation: If possible increase the business done with United Package and also with Federal Shipping, that currently is last in Quantiy of orders and shows promising Revenues numbers.
+	- And decrease the amount of orders done with Speedy Express
