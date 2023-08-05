@@ -43,8 +43,15 @@ Why the drastic fall at the end of the chart?
 ![123231](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/94bda7ed-f43a-4fd8-b7d3-b71bb856d2f7)
 ---
 #### 4.Are shipping costs consistent across providers?
+- Measures looked afer:
+   - Quantity of Orders Shipped
+   - Revenues per Shipper
+   - Average Revenue per order
 
-- **No they are not.** I've spoted some incogruences with the shippers selection
+- **No they are not.** I've spoted some incogruences with the shippers selection:
+   - United Package is the solid lider of the shippers. Is on top in the 3 measrues
+   - Speedy Express seems to be not the best partner
+   - Federal Shipping show numbers that are promising
 
 ![qwdwqd](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/50f2511d-a67a-412d-9139-33e55e932326)
 
@@ -52,6 +59,8 @@ Why the drastic fall at the end of the chart?
 
 ![Avgincome](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/f601d990-4dbf-45eb-adb8-ec8e86edccbf)
 
+- Speedy Express seems to be some how deficent revenue wise:
+  
 ![wfewfefwe](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/43b31d7c-1988-4dd0-9e67-d659374b7afe)
 
 
@@ -62,3 +71,4 @@ Why the drastic fall at the end of the chart?
 |United Package|38.87%|42.28%|42.15%|-0.13%|
 ||100%|100%|100%
 
+- #### Recomendation: If possible increase the business done with United Package and also with Federal Shipping
