@@ -1,4 +1,4 @@
-# PowerPivot_PowerQuery_Project
+# Power BI Northwind Project
 In this repository you'll find what I can do with Power Query and Power Pivot with the **Northwind** Data challenge. For this Anlysis i'm inly going to use Excel. In other file, I will make a dashboard with Power BI. 
 
 ![w12](https://github.com/mfernandezcean/PowerPivot_PowerQuery_Project/assets/105746149/19fbff06-1460-4193-855a-d655a2984a1e)
